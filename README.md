@@ -1,2 +1,2 @@
-# CRUD-operation-with-php
+# CRUD-Operations-with-Php
 A create, read, update and delete application in php 
